@@ -19,12 +19,12 @@ const Portfolio = () => {
               collaborate
             </a>
             <div class="nav-right">
-              <a href="https://leetcode.com">leetcode</a>
-              <a href="https://codechef.com">codechef</a>
+              <a href="https://leetcode.com/u/an_astronaut">leetcode</a>
+              <a href="https://www.codechef.com/users/an_astronaut">codechef</a>
             </div>
             <div class="nav-right">
-              <a href="https://github.com">github</a>
-              <a href="https://linkedin.com">linkedin</a>
+              <a href="https://github.com/geethsowri">github</a>
+              <a href="https://linkedin.com/in/geethsowri">linkedin</a>
               <a href="mailto:nainalageethsowri.com">contact</a>
             </div>
           </nav>
