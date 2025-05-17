@@ -17,7 +17,7 @@ body {
 
 .container {
   max-width: 1200px;
-  /* margin: 0 auto; */
+  margin: 0 auto;
   padding: 2rem;
   width: 100%;
 }
@@ -178,7 +178,7 @@ span {
   .nav-right {
     flex-direction: row;
     margin-left: 0;
-    gap: 1rem;
+      gap: 1rem;
   }
 
   .message {
